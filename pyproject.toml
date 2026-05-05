@@ -1,0 +1,14 @@
+[project]
+name = "stock-forecasting-nn"
+version = "0.1.0"
+description = "Neural network-based stock return forecasting with backtesting"
+requires-python = ">=3.9"
+dependencies = [
+    "torch",
+    "yfinance",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "scikit-learn",
+    "jupyter",
+]
