@@ -57,4 +57,4 @@ Open `project.ipynb` in Jupyter and run all cells from top to bottom. Data is pu
 
 ## Video
 
-[To be added on May 5]
+[Video link](https://drive.google.com/file/d/1mP5-fOVHV4QuF497llK2XzYH5R7FxfQk/view?usp=sharing)
